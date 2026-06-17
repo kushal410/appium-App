@@ -464,7 +464,7 @@ capabilities: [
         // ... other caps
     }
 ]
-```
+```..
 
 ### 🚨 Troubleshooting
 
