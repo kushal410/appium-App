@@ -1,5 +1,5 @@
 
-VVIP# Appium + WebDriver.IO Demo Framework - Android & IOS Example
+VVIP# Appium + WebDriver.IO Demo Framework - Android & IOS Examplen   STATSIG_SERVER_API_KEY
 
 This project has been created to demonstrate how a QA Engineer can perform Mobile Testing using Appium + WebDriver.IO
 More commands and insights about the integration at [WebDriverIO Appium docs](https://webdriver.io/docs/api/appium/)
